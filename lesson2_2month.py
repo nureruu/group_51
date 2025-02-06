@@ -74,7 +74,7 @@
 #
 
 
-#HOMEWORK
+#HOMEWORK 2 lesson
 
 
 class Figure:
