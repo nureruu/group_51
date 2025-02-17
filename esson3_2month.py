@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Car:
 
     @classmethod
@@ -47,3 +48,6 @@ class ElectroCar(Car):
 number_1, number_2 = 2, 5
 print(f'number 1 is greater than 2 number: {number_1 > number_2}')
 
+=======
+print("hello")
+>>>>>>> feature-comments

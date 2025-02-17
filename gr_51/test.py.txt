@@ -1,0 +1,3 @@
+from termcolor import cprint
+cprint("hello world", "red", "on_red")
+print("hello from kg")
